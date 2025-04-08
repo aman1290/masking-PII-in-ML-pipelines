@@ -1,0 +1,21 @@
+Name,Email,Age,City,Purchased
+Alice Johnson,alice.johnson@example.com,25,New York,1
+Bob Smith,bob.smith@example.com,30,San Francisco,0
+Charlie Lee,charlie.lee@example.com,22,Chicago,1
+Diana Adams,diana.adams@example.com,28,Los Angeles,0
+Ethan Brown,ethan.brown@example.com,35,Seattle,1
+Fiona White,fiona.white@example.com,27,Boston,1
+George Black,george.black@example.com,45,Houston,0
+Hannah Green,hannah.green@example.com,32,Denver,1
+Ian Grey,ian.grey@example.com,40,Phoenix,0
+Jade Blue,jade.blue@example.com,23,Miami,1
+Kyle Red,kyle.red@example.com,36,Atlanta,0
+Luna Gold,luna.gold@example.com,29,Dallas,1
+Max Silver,max.silver@example.com,33,Portland,0
+Nina Rose,nina.rose@example.com,26,San Diego,1
+Oscar Pearl,oscar.pearl@example.com,38,Austin,1
+Paula Stone,paula.stone@example.com,31,Columbus,0
+Quinn Snow,quinn.snow@example.com,24,Charlotte,1
+Rita Copper,rita.copper@example.com,37,Indianapolis,0
+Steve Zinc,steve.zinc@example.com,34,Detroit,1
+Tina Iron,tina.iron@example.com,21,Orlando,1
